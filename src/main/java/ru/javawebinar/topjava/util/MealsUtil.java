@@ -11,8 +11,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * GKislin
- * 31.05.2015.
+ *
  */
 public class MealsUtil {
     public static final List<Meal> MEALS = Arrays.asList(
